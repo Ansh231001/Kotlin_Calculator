@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="expression">Expression</string>
+    <string name="result">Result</string>
+    <string name="addition">+</string>
+    <string name="division">/</string>
+    <string name="multiplication">x</string>
+    <string name="subtraction">-</string>
+    <string name="backspace"><![CDATA[<-]]></string>
+</resources>
